@@ -1,5 +1,5 @@
 # Dietrics
-Application to track nutritional facts on foods.
+Application to track nutritional facts on foods based on biological profile. *sourced from FDA standards
 
 ### Sign-up  
 
